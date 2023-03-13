@@ -7,5 +7,5 @@ int main ()
     scanf("%d",&year);
     printf("Enter your current age: ");
     scanf("%d",&age);
-    printf("Your year of birth: %d \n",year-age);
+    printf("You were born in the year: %d \n",year-age);
 }
