@@ -1,1 +1,1 @@
-Simple program to convert tempperature in Farenheit to Degree Celcius
+Simple program to convert temperature in Farenheit to Degree Celsius
