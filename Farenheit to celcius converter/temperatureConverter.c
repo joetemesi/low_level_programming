@@ -1,5 +1,5 @@
 #include <stdio.h>
-//converts Degree arenheit to celcius
+//converts Degree Farenheit to celcius
 int main ()
 {
     double celcius,farenheit;
