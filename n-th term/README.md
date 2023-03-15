@@ -1,1 +1,1 @@
-Program to print the n-th term of a given arithmetic sequence
+A simple C program to print the n-th term of an arithmetic series
